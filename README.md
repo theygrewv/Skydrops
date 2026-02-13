@@ -4,7 +4,6 @@
 >
 > *Welcome home, Luminary.*
 
-![Skydrops Architecture Banner](https://via.placeholder.com/1200x400?text=Skydrops:+Sovereign+Audio+Social)
 
 ## 🌌 **The Manifesto**
 
