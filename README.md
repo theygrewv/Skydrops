@@ -26,7 +26,7 @@ Helia is the "Gravity Lens" of Skydrops. Unlike traditional AI assistants, Helia
 
 ## 🎨 Visual Modes
 Skydrops supports two distinct "Frequencies":
-1.  **Flare UI:** Smooth glassmorphism, glowing nebulas, and fluid physics-based transitions.
+1.  **Ether UI: ** Smooth glassmorphism, glowing nebulas, and fluid physics-based transitions.
 2.  **8-Bit Mode:** A dithered, retro-future aesthetic for a nostalgic, low-power vibe.
 
 ## ☁️ Success-Tax Protection
