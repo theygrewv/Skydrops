@@ -35,4 +35,4 @@ Built to be efficient. By offloading indexing to the local device and using lazy
 
 ---
 
-*Built with 🧡 and ⚡ by Vin and the Skydrops Architects.*
+*Built with 🧡 and ⚡ by Vin, the Skydrops Architect.*
